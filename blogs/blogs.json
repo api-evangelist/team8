@@ -1,0 +1,21 @@
+{
+  "repo": "team8",
+  "feeds": [
+    {
+      "source": "https://team8.vc/feed/",
+      "feed_url": "https://team8.vc/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://team8.vc/about/",
+      "feed_url": "https://team8.vc/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 9,
+  "fetched": "2026-08-01T15:49:00Z"
+}

@@ -1,8 +1,26 @@
 aid: team8
 name: Team8
-description: 'Team8 is a company surfaced as a portfolio company of bessemer-venture-partners and added
-  to the API Evangelist network as a stub for enrichment. Sector: cybersecurity. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: 'Team8 is an Israel-based venture group that both creates and invests in companies, operating
+  as a company-building foundry alongside a traditional venture-capital fund. Founded in 2014 by veterans
+  of Israel''s elite military technology units, the firm builds and backs startups across four domains —
+  Cybersecurity, Software Infrastructure, Fintech, and Digital Health — and believes the greatest successes
+  emerge at their intersections. Team8 pairs founders with capital, deep operating expertise, a community
+  of enterprise CISOs and executives, and a hands-on venture-creation methodology it calls "success by
+  design." It does not publish a public developer API; this profile captures Team8''s corporate, portfolio,
+  and insights web presence, surfaced into the API Evangelist network as a Bessemer Venture Partners
+  portfolio lead.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://team8.vc/wp-content/uploads/2025/12/Copy-of-new_logo_color@2x-100.jpg
 url: https://raw.githubusercontent.com/api-evangelist/team8/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +30,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Cybersecurity
+- Software Infrastructure
+- Fintech
+- Digital Health
+- Venture Capital
+- Venture Creation
+- Company Builder
+- Israel
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,4 +49,21 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://www.team8.vc/
+  url: https://team8.vc/
+- type: About
+  url: https://team8.vc/about/
+- type: Blog
+  url: https://team8.vc/news/
+- type: Portfolio
+  url: https://team8.vc/portfolio/
+- type: TermsOfService
+  url: https://team8.vc/terms-conditions/
+- type: PrivacyPolicy
+  url: https://team8.vc/privacy-policy/
+- type: DomainSecurity
+  url: security/team8-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1

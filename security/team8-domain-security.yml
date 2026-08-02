@@ -1,0 +1,17 @@
+generated: '2026-07-21'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: www.team8.vc
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Oct  9 08:18:41 2026 GMT
+  hsts: true
+  hsts_max_age: 31536000
+domains:
+- domain: team8.vc
+  dnssec: false
+  caa: []
+  spf: true
+  dmarc: true
+  dmarc_policy: none
