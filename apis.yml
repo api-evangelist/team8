@@ -9,6 +9,17 @@ description: 'Team8 is an Israel-based venture group that both creates and inves
   design." It does not publish a public developer API; this profile captures Team8''s corporate, portfolio,
   and insights web presence, surfaced into the API Evangelist network as a Bessemer Venture Partners
   portfolio lead.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
