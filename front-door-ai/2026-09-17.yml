@@ -1,0 +1,26 @@
+# Front Door AI Index — team8 — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: team8
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: team8.vc
+  final_host: team8.vc
+  ownership: own
+  owner: team8
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 3
+  host_score: 3
+  density: 4.2
+  words: 715
+  tiers:
+    agentic: 0
+    core: 2
+    model: 1
+  ambiguous: 0
+  top_terms:
+    AI: 2
+    OpenAI: 1
